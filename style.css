@@ -1,0 +1,26 @@
+h1{
+    color: #06668c;
+    text-decoration: underline-none;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+
+div{
+
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    width: 400px;
+    height: 400px;
+}
+
+img{
+
+    width: 500px;
+    height: 500px;
+    max-width: 100%;
+    height: auto;
+}
